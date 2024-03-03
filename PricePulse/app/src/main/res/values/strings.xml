@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">PricePulse</string>
+    <string name="oslo" translatable="false">Oslo</string>
+    <string name="current_electricity_price">Current electricity price</string>
+    <string name="unable_to_connect">Unable to connect to the Internet</string>
+    <string name="lost_connection">Lost internet connection</string>
+    <string name="losing_connection">Losing internet connection…</string>
+    <string name="select_region">Select region</string>
+    <string name="east_norway">East-Norway</string>
+    <string name="south_norway">South-Norway</string>
+    <string name="mid_norway">Mid-Norway</string>
+    <string name="north_norway">North-Norway</string>
+    <string name="west_norway">West-Norway</string>
+    <string name="selected_region">Selected region</string>
+    <string name="spot_price">Spot price</string>
+    <string name="home">Home</string>
+    <string name="electricity">Electricity</string>
+    <string name="appliances">Appliances</string>
+    <string name="settings">Settings</string>
+    <string name="table">Table</string>
+    <string name="graph">Graph</string>
+    <string name="language">Language selected: English</string>
+    <string name="change_language">You can modify the application language by accessing the language settings within your phone\'s system configuration.</string>
+    <string name="about_this_app">About this app</string>
+    <string name="usage">How it works</string>
+    <string name="information">
+        Welcome to our electricity price calculator app! \n\n
+        Our app provides you with up-to-date electricity price information for the different regions in Norway.
+         \n\n With our easy-to-use interface, you can quickly access current and forecasted electricity price data,
+        PricePulse shows the user the current electricity price and today\'s price per hour. It also calculates what it would cost to use different appliances for a given time. \n\n
+        Currently the app only calculates the price of usage to washing machine, oven, heater and shower.
+        \n\n Our app is optimized for both phone and tablet use. In addition to that, it supports Norwegian and English.
+        \n\n We hope you enjoy using our electricity price calculator app and that it helps you stay informed and prepared.
+        \n\n This app has been developed in collaboration with the Norwegian Meteorological Institute and as part of an exam assignment for IN2000 at the University of Oslo.
+        \n\n \n\n The project was undertaken by:  \n\n Kashmala H. Sheikh, Osman Ahmed, \n\n Sakaria Ahmed, Sofia Ibn El Moujdi Troger, \n\n Suleyman Boyar and Adam Hussainy"
+    </string>
+    <string name="opensource">Open source licence</string>
+    <string name="purpose">
+        The purpose of this app is to show the electricity
+        price for a timeframe, and show the cost for common appliances during the
+        different timeframes. \n\n The home screen shows the current spot price for the
+        user. \n\n The appliances screen shows the price
+        of using the appliance that was chosen as a graph or a table. The settings screen provides
+        you the opportunity to change the region, and gives you important information about this application.
+    </string>
+    <string-array name="names">
+        <item>Osman Nasib Ali Ahmed</item>
+        <item>Kashmala Hafeez Sheikh</item>
+        <item>Sofia Ibn El Moujdi Troger</item>
+        <item>Suleyman Mert Boyar</item>
+        <item>Syed Adam Hussainy</item>
+        <item>Sakaria Abdi Ahmed</item>
+    </string-array>
+    <string name="wait">wait…</string>
+    <string name="y_axis">NOK/kWh</string>
+    <string name="x_axis">hour of day</string>
+    <string name="x_axis2">Price per hour</string>
+    <string name="washing_machine">Washing machine Icon</string>
+    <string name="oven">Oven Icon</string>
+    <string name="heater">Heater Icon</string>
+    <string name="shower">Shower Icon</string>
+    <string name="show_developers">Show developers</string>
+    <string name="show_usage">Show usage</string>
+    <string name="disabled">Disabled</string>
+</resources>

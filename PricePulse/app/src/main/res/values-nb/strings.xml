@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_electricity_price">Gjeldende strømpris</string>
+    <string name="unable_to_connect">Kan ikke koble til Internettet</string>
+    <string name="lost_connection">Mistet internettforbindelse</string>
+    <string name="losing_connection">Mister internettforbindelse…</string>
+    <string name="select_region">Velg region</string>
+    <string name="east_norway">Øst-Norge</string>
+    <string name="south_norway">Sør-Norge</string>
+    <string name="mid_norway">Midt-Norge</string>
+    <string name="north_norway">Nord-Norge</string>
+    <string name="west_norway">Vest-Norge</string>
+    <string name="selected_region">Valgt region</string>
+    <string name="spot_price">Spotpris</string>
+    <string name="home">Hjem</string>
+    <string name="electricity">Elektrisitet</string>
+    <string name="appliances">Hvitevarer</string>
+    <string name="settings">Innstillinger</string>
+    <string name="table">Tabell</string>
+    <string name="graph">Graf</string>
+    <string name="language">Språk valgt: Norsk</string>
+    <string name="change_language">Du kan endre applikasjonsspråket ved å gå til språkinnstillingene i telefonens systemkonfigurasjon.</string>
+    <string name="about_this_app">Om appen </string>
+    <string name="usage">Bruksområde</string>
+    <string name="information">
+        Velkommen til vår strømpriskalkulator-app! \n\n
+        Appen vår gir deg oppdatert strømpris informasjon for de ulike regionen i Norge.
+        \n\n Med vårt brukervennlige grensesnitt kan du raskt få tilgang til gjeldende og anslått strømprisdata,
+        PricePulse viser brukeren gjeldende strømpris og dagens pris per time. Den beregner også hva det vil koste å bruke forskjellige hvitevarer for en gitt tid. \n\n
+        Foreløpig beregner appen kun prisen på bruk for vaskemaskin, stekeovn, varmeapparat og dusj.        \n\n Appen vår er optimalisert for både telefon- og nettbrettbruk, og tillegg støtter norsk og engelsk.
+        \n\n Vi håper du liker å bruke vår strømpriskalkulator-app og at den hjelper deg å holde deg informert og forberedt.
+        \n\n Denne appen er utviklet i samarbeid med Meteorologisk institutt og som en del av en eksamensoppgave for IN2000 ved Universitetet i Oslo.
+        \n\n \n\n Prosjektet ble utført av: \n\n Kashmala Hafeez Sheikh, Osman Nasib Ali Ahmed, \n\n Sakaria Abdi Ahmed, Sofia Ibn El Moujdi Troger, \n\n Suleyman Mert Boyar og Syed Adam Hussainy"
+    </string>
+    <string name="opensource">Åpen kildekode lisenser</string>
+    <string name="purpose">
+        Hensikten med appen her er å vise elektrisitetsprisen
+        for et tidsrom, og kostnaden for å bruke ulike apparaturer
+        innen disse tidsrommene. Hjemskjermen viser spotprisen til brukeren,
+        mens elektrisitets skjermen viser elektrisitets prisen for dagen i dag,
+        og regionen den viser for. Apparat skjermen viser prisen for apparatet som
+        ble valgt som en graf eller en tabell.
+        Innstillingsskjermen gir deg muligheten til å endre regionen og
+        gir deg viktig informasjon om denne applikasjonen.
+    </string>
+    <string-array name="names">
+        <item>Osman Nasib Ali Ahmed</item>
+        <item>Kashmala Hafeez Sheikh</item>
+        <item>Sofia Ibn El Moujdi Troger</item>
+        <item>Suleyman Mert Boyar</item>
+        <item>Syed Adam Hussainy</item>
+        <item>Sakaria Abdi Ahmed</item>
+    </string-array>
+    <string name="wait">vent…</string>
+    <string name="y_axis">NOK/kWh</string>
+    <string name="x_axis">time</string>
+    <string name="x_axis2">Price per time</string>
+    <string name="washing_machine">Vaskemaskin Ikon</string>
+    <string name="oven">Ovn Ikon</string>
+    <string name="heater">Varmeovn Ikon</string>
+    <string name="shower">Dusj Ikon</string>
+    <string name="show_developers">Hvis utviklere</string>
+    <string name="show_usage">Hvis bruk</string>
+    <string name="disabled">Av</string>
+</resources>
